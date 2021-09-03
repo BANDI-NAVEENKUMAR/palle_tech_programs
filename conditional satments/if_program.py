@@ -1,4 +1,4 @@
-a=33
-b=55
-if b>a:
-    print('b is greater than a')
+def sumoftwoelements(a,b,index):
+    return a[index]+b[index]
+res=sumoftwoelements([1,2,3],[4,5,6],1)
+print(res)
