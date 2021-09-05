@@ -1,5 +1,5 @@
 <!DOCTYPE css>
-<html lang="en">
+<html lang="enter">
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
@@ -13,16 +13,6 @@
            </td>
             <td>
                 <input type="text" placeholder="enter name"/>
-            </td>
-           </tr>
-           <tr>
-               <td>
-                   <lable>age:</lable>
-               </td>
-               <td>
                    <input type="number"/>
-               </td>
-           </tr>
-
 </body>
 </html>
