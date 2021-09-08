@@ -1,3 +1,13 @@
-while i<3:
-    i=i+1
-    print(i)
+a=20
+if a > 15:
+    print("naveen")
+    print("kumar")
+    print("bandi")
+    print("matli yallampalle (v)")
+    print("veeraballi (m)")
+    print("kadapa(dist)")
+    print("andhra pradhesh (rastram)")
+    print("india (contry)")
+else:
+    print("not naveen")
+print("end")
