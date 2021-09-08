@@ -5,6 +5,6 @@ def primenumber(num):
             prime=False
             break
     return prime
-res=primenumber(6)
+res=primenumber(2)
 print(res)
 
