@@ -1,5 +1,5 @@
-a=20
-if a > 15:
+a=22
+if a == 20:
     print("naveen")
     print("kumar")
     print("bandi")
