@@ -1,4 +1,4 @@
-n= 17
+n= 9
 if n == 10:
     print("n is 10")
 elif n == 15:
