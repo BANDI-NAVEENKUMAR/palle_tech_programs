@@ -4,12 +4,13 @@ class cricket:
         self.age = age
         self.score = score
 
-c1 = cricket('pant',24,100)
-c2 = cricket('virat',32,140)
-c3 = cricket('rohit',33,200)
-c4 = cricket('rahul',27,170)
+s1 = cricket('virat',33,90)
+s2 = cricket('rohit',32,100)
+s3 = cricket('pant',24,127)
+s4 = cricket ('rahul',27,110)
 
-print(c1.__dict__)
-print(c2.__dict__)
-print(c3.__dict__)
-print(c4.__dict__)
+print(s1.__dict__)
+print(s2.__dict__)
+print(s3.__dict__)
+print(s4.__dict__)
+
